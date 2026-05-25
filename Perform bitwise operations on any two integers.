@@ -1,0 +1,9 @@
+a = 6   # 0110 in binary
+b = 3   # 0011 in binary
+
+print("a & b:", a & b)   # AND
+print("a | b:", a | b)   # OR
+print("a ^ b:", a ^ b)   # XOR
+print("~a:", ~a)         # NOT
+print("a << 1:", a << 1) # Left shift
+print("a >> 1:", a >> 1) # Right shift
