@@ -1,0 +1,6 @@
+a = 10
+b = 5
+
+max_value = a if a > b else b
+
+print("Maximum:", max_value)
