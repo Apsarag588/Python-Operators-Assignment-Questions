@@ -1,0 +1,8 @@
+x = 10
+
+print("Original:", x)
+print("Negated:", -x)
+
+y = -5
+print("Original y:", y)
+print("Negated y:", -y)
